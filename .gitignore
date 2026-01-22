@@ -1,0 +1,7 @@
+*.o
+mergesort
+a.out
+slurm-*.out
+results/*.csv
+results/*.tsv
+results/*.png
